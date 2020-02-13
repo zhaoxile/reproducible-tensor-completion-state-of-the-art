@@ -1,11 +1,12 @@
-# reproducible-image-denoising-state-of-the-art
-Collection of popular and reproducible image denoising works.
+# reproducible-tensor-completion-state-of-the-art
+Collection of popular and reproducible tensor completion works.
 
 Criteria: works must have codes available, and the reproducible results demonstrate state-of-the-art performances.
 
-This collection is inspired by the [summary by flyywh](https://github.com/flyywh/Image-Denoising-State-of-the-art)
 
-Note: This repo focuses on single image denoising in general, and will exclude multi-frame and video denoising works.
+**This list is maintained by:**
+
+**Xi-Le Zhao** **[[STRUCT]](https://zhaoxile.github.io/) (UESTC)**
 
 ## Denoising Algorithms
 #### Filter
