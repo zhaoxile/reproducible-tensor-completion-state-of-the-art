@@ -44,18 +44,16 @@ Criteria: works must have codes available, and the reproducible results demonstr
    * A Trilateral Weighted Sparse Coding Scheme for Real-World Image Denoising (ECCV 2018), Xu et al.
   
 #### Tensor Singular Value Decomposition
- * EPLL [[Web]](https://people.csail.mit.edu/danielzoran/) [[Code]](https://people.csail.mit.edu/danielzoran/epllcode.zip) [[PDF]](http://people.ee.duke.edu/~lcarin/EPLICCVCameraReady.pdf)
-   * From Learning Models of Natural Image Patches to Whole Image Restoration (ICCV2011), Zoran et al.
- * GHP [[Web]][[Code]](https://github.com/tingfengainiaini/GHPBasedImageRestoration) [[PDF]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Zuo_Texture_Enhanced_Image_2013_CVPR_paper.pdf)
-   * Texture Enhanced Image Denoising via Gradient Histogram Preservation (CVPR2013), Zuo et al.
- * PGPD [[Web]][[Code]](https://github.com/csjunxu/PGPD_Offline_BID) [[PDF]](http://www4.comp.polyu.edu.hk/~cslzhang/paper/PGPD.pdf)
-   * Patch Group Based Nonlocal Self-Similarity Prior Learning for Image Denoising (ICCV 2015), Xu et al.
- * PCLR [[Web]][[Code]](http://www4.comp.polyu.edu.hk/~cslzhang/code/PCLR.zip) [[PDF]](http://www4.comp.polyu.edu.hk/~cslzhang/paper/PCLR.pdf)
-   * External Patch Prior Guided Internal Clustering for Image Denoising (ICCV 2015), Chen et al.
+ * TRPCA [[Web]](https://canyilu.github.io/publications/) [[Code]](https://github.com/canyilu/Tensor-Robust-Principal-Component-Analysis-TRPCA) [[PDF]](https://arxiv.org/abs/1804.03728)
+   * Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm (PAMI2018), Canyi Lu et al.
+ * 3DTNN [[Web]](https://zhaoxile.github.io/) [[Code]](https://github.com/zhaoxile/Mixed-Noise-Removal-in-Hyperspectral-Image-via-Low-Fibered-Rank-Regularization) [[PDF]](https://ieeexplore.ieee.org/document/8854307)
+* Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization (IEEE TGRS2020), Yu-Bang Zheng et al.
+* TNN [[Web]](http://www.ece.tufts.edu/~shuchin/) [[Code]]http://www.ece.tufts.edu/~shuchin/tensor_completion_and_rpca.zip) [[PDF]](https://www.zpascal.net/cvpr2014/Zhang_Novel_Methods_for_2014_CVPR_paper.pdf)
+* Novel Methods for Multilinear Data Completion and De-noising Based on Tensor-SVD (CVPR2014), Zemin Zhang et al.
    
 #### Tensor Train Decomposition
  *TMac_TT [[Web]](https://sites.google.com/site/jbengua/home) [[Code]](https://sites.google.com/site/jbengua/home/projects/efficient-tensor-completion-for-color-image-and-video-recovery-low-rank-tensor-train/TMacTT_Images.zip?attredirects=0&d=1) [[PDF]](https://www.researchgate.net/publication/303821165_Efficient_Tensor_Completion_for_Color_Image_and_Video_Recovery_Low-Rank_Tensor_Train)
-   * Efficient Tensor Completion for Color Image and Video Recovery: Low-Rank Tensor Train (TIP2017), Johann A. Bengua et al.
+   * Efficient Tensor Completion for Color Image and Video Recovery: Low-Rank Tensor Train (IEEE TIP2017), Johann A. Bengua et al.
 
    
 #### Tensor Ring Decomposition
