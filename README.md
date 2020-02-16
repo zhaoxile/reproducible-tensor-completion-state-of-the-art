@@ -58,7 +58,7 @@ Criteria: works must have codes available, and the reproducible results demonstr
 ## Deep Learning
  * TT-LSTM [[Web]](https://www.dbs.ifi.lmu.de/~tresp/) [[Code]](https://github.com/Tuyki/TT_RNN) [[PDF]](http://proceedings.mlr.press/v70/yang17e/yang17e.pdf)
    * Tensor-Train Recurrent Neural Networks for Video Classification (ICML 2017), Yinchong Yang et al.
- * TT-layer [[Web]](https://github.com/Bihaqo) [[Code]](https://github.com/Bihaqo/TensorNet) [[PDF]](https://papers.nips.cc/paper/5787-tensorizing-neural-networks.pdf)
+ * TT-Layer [[Web]](https://github.com/Bihaqo) [[Code]](https://github.com/Bihaqo/TensorNet) [[PDF]](https://papers.nips.cc/paper/5787-tensorizing-neural-networks.pdf)
    * Tensorizing Neural Networks (NIPS 2015), Alexander Novikov et al.
 
 
@@ -76,12 +76,12 @@ Criteria: works must have codes available, and the reproducible results demonstr
 
 
 ## Commonly Used  Dataset
- * Videos [[Web]](http://sipi.usc.edu/database/database.php?volume=misc) 
- * Multi-spectral Images [[Web]](CAVE | Projects: Multispectral Image Database)  
+ * Videos [[Web]](http://trace.eas.asu.edu/yuv/) 
+ * Multi-spectral Images [[Web]](http://www.cs.columbia.edu/CAVE/databases/multispectral/)  
 
 ## Commonly Used Image Quality Metrics
- * PSNR (Peak Signal-to-Noise Ratio) [[Wiki]](https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio) [[Matlab Code]](https://www.mathworks.com/help/images/ref/psnr.html) [[Python Code]](https://github.com/aizvorski/video-quality)
- * SSIM (Structural similarity) [[Wiki]](https://en.wikipedia.org/wiki/Structural_similarity) [[Matlab Code]](http://www.cns.nyu.edu/~lcv/ssim/ssim_index.m) [[Python Code]](https://github.com/aizvorski/video-quality/blob/master/ssim.py)
+ * PSNR (Peak Signal-to-Noise Ratio) [[Wiki]](https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio) [[Matlab Code]](https://www.mathworks.com/help/images/ref/psnr.html) 
+ * SSIM (Structural similarity) [[Wiki]](https://en.wikipedia.org/wiki/Structural_similarity) [[Matlab Code]](http://www.cns.nyu.edu/~lcv/ssim/ssim_index.m) 
 
 
 
