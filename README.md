@@ -25,6 +25,8 @@ Criteria: works must have codes available, and the reproducible results demonstr
 ### Tucker Decomposition
 * SNN [[Web]](https://www.cs.rochester.edu/u/jliu/publications.html) [[Code]](http://peterwonka.net/Publications/code/LRTC_Package_Ji.zip) [[PDF]](https://www.cs.rochester.edu/u/jliu/paper/Ji-ICCV09.pdf)
    * Tensor Completion for Estimating Missing Values in Visual Data (PAMI 2012), Ji Liu et al.
+* TMac [[Web]](https://www.math.ucla.edu/~wotaoyin/papers/tmac_tensor_recovery.html) [[Code]](https://www.math.ucla.edu/~wotaoyin/papers/tmac_tensor_recovery.html) [[PDF]](https://www.math.ucla.edu/~wotaoyin/papers/tmac_tensor_recovery.html)
+  * Parallel matrix factorization for low-rank tensor completion (Inverse Problems and Imaging), Yangyang Xu et al.
 * KBR [[Web]](http://gr.xjtu.edu.cn/web/dymeng/1;jsessionid=F03A6AE30867A1EE7DE9D577DD4E253D) [[Code]](https://github.com/XieQi2015/KBR-TC-and-RPCA) [[PDF]](https://ieeexplore.ieee.org/iel7/34/4359286/08000407.pdf)
    * Kronecker-Basis-Representation Based Tensor Sparsity and Its Applications to Tensor Recovery (PAMI 2017), Qi Xie et al.
 
