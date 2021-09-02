@@ -77,7 +77,8 @@ Criteria: works must have codes available, and the reproducible results demonstr
 
 ## Commonly Used  Dataset
  * Videos [[Web]](http://trace.eas.asu.edu/yuv/) 
- * Multi-spectral Images [[Web]](http://www.cs.columbia.edu/CAVE/databases/multispectral/)  
+ * Multi-spectral Images [[Web]](http://www.cs.columbia.edu/CAVE/databases/multispectral/) 
+ * Hyper-spectral Images [Web] 
 
 ## Commonly Used Image Quality Metrics
  * PSNR (Peak Signal-to-Noise Ratio) [[Wiki]](https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio) [[Matlab Code]](https://www.mathworks.com/help/images/ref/psnr.html) 
