@@ -49,8 +49,8 @@ Criteria: works must have codes available, and the reproducible results demonstr
    * Low-Rank Tensor Completion Using Matrix Factorization Based on Tensor Train Rank and Total Variation (JSC2019), Meng Ding et al.  
 * TRLRF [[Web]](https://qibinzhao.github.io/) [[Code]](https://github.com/yuanlonghao/TRLRF) [[PDF]](https://arxiv.org/abs/1809.02288)
    * Tensor Ring Decomposition with Rank Minimization on Latent Space: An Efficient Approach for Tensor Completion (AAAI 2019), Longhao Yuan et al.
-* FCTN Decomposition [[Web]](https://qibinzhao.github.io/) [[Code]](https://github.com/yuanlonghao/TRLRF) [[PDF]](https://arxiv.org/abs/1809.02288)
-   * Tensor Ring Decomposition with Rank Minimization on Latent Space: An Efficient Approach for Tensor Completion (AAAI 2019), Longhao Yuan et al.
+* FCTN Decomposition [[Web]](https://yubangzheng.github.io/) [[Code]](https://yubangzheng.github.io/) [[PDF]](https://yubangzheng.github.io/)
+   * Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion (AAAI 2021), Yu-Bang Zheng et al.
 
 
 
