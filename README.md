@@ -6,7 +6,7 @@ Criteria: works must have codes available, and the reproducible results demonstr
 
 **This list is maintained by:**
 
-**Xi-Le Zhao,  Tai-Xiang Jiang,  Yu-Bang Zheng** **[[Email]](https://zhaoxile.github.io/) (UESTC)**
+**[Xi-Le Zhao](https://zhaoxile.github.io/),  [Tai-Xiang Jiang](https://taixiangjiang.github.io/),  [Yu-Bang Zheng](https://yubangzheng.github.io/)** **[[Email]](https://zhaoxile.github.io/) (UESTC)**
 
 
 ## Excellent Review
@@ -53,10 +53,13 @@ Criteria: works must have codes available, and the reproducible results demonstr
    * Tensor Ring Decomposition, _arXiv 2016_, **Qibin Zhao et al.**
 * TRLRF [[Web]](https://qibinzhao.github.io/) [[Code]](https://github.com/yuanlonghao/TRLRF) [[PDF]](https://arxiv.org/abs/1809.02288)
    * Tensor Ring Decomposition with Rank Minimization on Latent Space: An Efficient Approach for Tensor Completion, _AAAI 2019_, **Longhao Yuan et al.**
+* TN Rank [[Web]](https://arxiv.org/abs/1801.02662) [[Code]] [[PDF]](https://arxiv.org/pdf/1801.02662.pdf)
+   * Tensor Network Ranks, _arXiv 2019_, **Ke Ye et al.**
 * FCTN Decomposition [[Web]](https://yubangzheng.github.io/) [[Code]](https://yubangzheng.github.io/) [[PDF]](https://yubangzheng.github.io/papers/AAAI2021_FCTN_Decomposition_ybz.pdf)
    * Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion, _AAAI 2021_, **Yu-Bang Zheng et al.**
 * NL-FCTN Decomposition [[Web]](https://yubangzheng.github.io/) [[Code]] [[PDF]](https://yubangzheng.github.io/papers/NL-FCTN-wjz.pdf)
    * Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Remote Sensing Image Inpainting, _arXiv 2021_, **Wen-Jie Zheng et al.**
+ 
 
 
 
