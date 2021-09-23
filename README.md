@@ -42,7 +42,7 @@ Criteria: works must have codes available, and the reproducible results demonstr
 * TNN [[Web]](http://www.ece.tufts.edu/~shuchin/) [[Code]](http://www.ece.tufts.edu/~shuchin/tensor_completion_and_rpca.zip) [[PDF]](https://www.zpascal.net/cvpr2014/Zhang_Novel_Methods_for_2014_CVPR_paper.pdf)
    * Novel Methods for Multilinear Data Completion and De-noising Based on Tensor-SVD (CVPR2014), Zemin Zhang et al.
    
-## Tensor Network Decomposition (Maintained by Wen-Jie Zheng and [Yu-Bang Zheng](https://yubangzheng.github.io/))
+## Tensor Network Decomposition (Maintained by Wen-Jie Zheng and Yu-Bang Zheng)
 * TT Decomposition [[Web]](https://epubs.siam.org/doi/10.1137/090752286) [[Code]] [[PDF]](https://www.researchgate.net/publication/220412263_Tensor-Train_Decomposition)
    * Tensor-Train Decomposition, _SIAM Journal on Scientific Computing 2011_, **I. V. Oseledets**
 * TMac-TT [[Web]](https://sites.google.com/site/jbengua/home) [[Code]](https://sites.google.com/site/jbengua/home/projects/efficient-tensor-completion-for-color-image-and-video-recovery-low-rank-tensor-train/TMacTT_Images.zip?attredirects=0&d=1) [[PDF]](https://www.researchgate.net/publication/303821165_Efficient_Tensor_Completion_for_Color_Image_and_Video_Recovery_Low-Rank_Tensor_Train)
