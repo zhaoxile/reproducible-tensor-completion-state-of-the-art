@@ -49,11 +49,14 @@ Criteria: works must have codes available, and the reproducible results demonstr
    * Efficient Tensor Completion for Color Image and Video Recovery: Low-Rank Tensor Train, _IEEE Transactions on Image Processing 2017_, **Johann A. Bengua et al.**
 * MF-TTTV  [[Web]](https://mengding56.github.io/homepage/) [[Code]](https://mengding56.github.io/homepage/) [[PDF]](https://mengding56.github.io/homepage/)
    * Low-Rank Tensor Completion Using Matrix Factorization Based on Tensor Train Rank and Total Variation, _Journal of Scientific Computing 2019_, **Meng Ding et al.** 
+* TR Decomposition [[Web]](https://qibinzhao.github.io/) [[Code]](https://qibinzhao.github.io/) [[PDF]](https://arxiv.org/pdf/1606.05535.pdf)
+   * Tensor Ring Decomposition, _arXiv 2016_, **Qibin Zhao et al.**
 * TRLRF [[Web]](https://qibinzhao.github.io/) [[Code]](https://github.com/yuanlonghao/TRLRF) [[PDF]](https://arxiv.org/abs/1809.02288)
    * Tensor Ring Decomposition with Rank Minimization on Latent Space: An Efficient Approach for Tensor Completion, _AAAI 2019_, **Longhao Yuan et al.**
 * FCTN Decomposition [[Web]](https://yubangzheng.github.io/) [[Code]](https://yubangzheng.github.io/) [[PDF]](https://yubangzheng.github.io/)
    * Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion, _AAAI 2021_, **Yu-Bang Zheng et al.**
-
+* NL-FCTN Decomposition [[Web]](https://yubangzheng.github.io/) [[Code]] [[PDF]](https://yubangzheng.github.io/papers/NL-FCTN-wjz.pdf)
+   * Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Remote Sensing Image Inpainting, _arXiv 2021_, **Wen-Jie Zheng et al.**
 
 
 
