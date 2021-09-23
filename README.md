@@ -53,7 +53,7 @@ Criteria: works must have codes available, and the reproducible results demonstr
    * Tensor Ring Decomposition, _arXiv 2016_, **Qibin Zhao et al.**
 * TRLRF [[Web]](https://qibinzhao.github.io/) [[Code]](https://github.com/yuanlonghao/TRLRF) [[PDF]](https://arxiv.org/abs/1809.02288)
    * Tensor Ring Decomposition with Rank Minimization on Latent Space: An Efficient Approach for Tensor Completion, _AAAI 2019_, **Longhao Yuan et al.**
-* FCTN Decomposition [[Web]](https://yubangzheng.github.io/) [[Code]](https://yubangzheng.github.io/) [[PDF]](https://yubangzheng.github.io/)
+* FCTN Decomposition [[Web]](https://yubangzheng.github.io/) [[Code]](https://yubangzheng.github.io/) [[PDF]](https://yubangzheng.github.io/papers/AAAI2021_FCTN_Decomposition_ybz.pdf)
    * Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion, _AAAI 2021_, **Yu-Bang Zheng et al.**
 * NL-FCTN Decomposition [[Web]](https://yubangzheng.github.io/) [[Code]] [[PDF]](https://yubangzheng.github.io/papers/NL-FCTN-wjz.pdf)
    * Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Remote Sensing Image Inpainting, _arXiv 2021_, **Wen-Jie Zheng et al.**
