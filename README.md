@@ -43,17 +43,17 @@ Criteria: works must have codes available, and the reproducible results demonstr
    * Novel Methods for Multilinear Data Completion and De-noising Based on Tensor-SVD (CVPR2014), Zemin Zhang et al.
    
 ## Tensor Network Decomposition (Maintained by Wen-Jie Zheng and Yu-Bang Zheng)
-* TT Decomposition [[Web]](https://epubs.siam.org/doi/10.1137/090752286) [[Code]] [[PDF]](https://www.researchgate.net/publication/220412263_Tensor-Train_Decomposition)
+* TT Decomposition [[Web]](https://www.researchgate.net/profile/Ivan-Oseledets) [[Code]] [[PDF]](https://www.researchgate.net/publication/220412263_Tensor-Train_Decomposition)
    * Tensor-Train Decomposition, _SIAM Journal on Scientific Computing 2011_, **I. V. Oseledets**
-* TMac-TT [[Web]](https://sites.google.com/site/jbengua/home) [[Code]](https://sites.google.com/site/jbengua/home/projects/efficient-tensor-completion-for-color-image-and-video-recovery-low-rank-tensor-train/TMacTT_Images.zip?attredirects=0&d=1) [[PDF]](https://www.researchgate.net/publication/303821165_Efficient_Tensor_Completion_for_Color_Image_and_Video_Recovery_Low-Rank_Tensor_Train)
+* TMac-TT [[Web]](https://sites.google.com/site/jbengua/home) [[Code]](https://sites.google.com/site/jbengua/home/projects-and-matlab-code/efficient-tensor-completion-for-color-image-and-video-recovery-low-rank-tensor-train) [[PDF]](https://www.researchgate.net/publication/303821165_Efficient_Tensor_Completion_for_Color_Image_and_Video_Recovery_Low-Rank_Tensor_Train)
    * Efficient Tensor Completion for Color Image and Video Recovery: Low-Rank Tensor Train, _IEEE Transactions on Image Processing 2017_, **Johann A. Bengua et al.**
-* MF-TTTV  [[Web]](https://mengding56.github.io/homepage/) [[Code]](https://mengding56.github.io/homepage/) [[PDF]](https://mengding56.github.io/homepage/)
+* MF-TTTV  [[Web]](https://mengding56.github.io/homepage/) [[Code]](https://mengding56.github.io/homepage/) [[PDF]](https://mengding56.github.io/papers/20JSC_MFTTTV_TC.pdf)
    * Low-Rank Tensor Completion Using Matrix Factorization Based on Tensor Train Rank and Total Variation, _Journal of Scientific Computing 2019_, **Meng Ding et al.** 
 * TR Decomposition [[Web]](https://qibinzhao.github.io/) [[Code]](https://qibinzhao.github.io/) [[PDF]](https://arxiv.org/pdf/1606.05535.pdf)
    * Tensor Ring Decomposition, _arXiv 2016_, **Qibin Zhao et al.**
-* TRLRF [[Web]](https://qibinzhao.github.io/) [[Code]](https://github.com/yuanlonghao/TRLRF) [[PDF]](https://arxiv.org/abs/1809.02288)
+* TRLRF [[Web]](https://qibinzhao.github.io/) [[Code]](https://github.com/yuanlonghao/TRLRF) [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/4949)
    * Tensor Ring Decomposition with Rank Minimization on Latent Space: An Efficient Approach for Tensor Completion, _AAAI 2019_, **Longhao Yuan et al.**
-* TN Rank [[Web]](https://arxiv.org/abs/1801.02662) [[Code]] [[PDF]](https://arxiv.org/pdf/1801.02662.pdf)
+* TN Rank [[Web]](https://sites.google.com/site/keyeshomepage/home) [[Code]] [[PDF]](https://arxiv.org/pdf/1801.02662.pdf)
    * Tensor Network Ranks, _arXiv 2019_, **Ke Ye et al.**
 * FCTN Decomposition [[Web]](https://yubangzheng.github.io/) [[Code]](https://yubangzheng.github.io/) [[PDF]](https://yubangzheng.github.io/papers/AAAI2021_FCTN_Decomposition_ybz.pdf)
    * Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion, _AAAI 2021_, **Yu-Bang Zheng et al.**
