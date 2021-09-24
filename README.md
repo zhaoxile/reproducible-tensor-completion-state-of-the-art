@@ -85,8 +85,13 @@ Criteria: works must have codes available, and the reproducible results demonstr
 
 ## Commonly Used  Dataset
  * Videos [[Web]](http://trace.eas.asu.edu/yuv/) 
- * Multi-spectral Images [[Web]](http://www.cs.columbia.edu/CAVE/databases/multispectral/) 
- * Hyper-spectral Images [Web] 
+ * Multi-spectral Images
+    * CAVE [[Web]](http://www.cs.columbia.edu/CAVE/databases/multispectral/) 
+ * Hyper-spectral Images 
+    * Pavia Centre and University [[Web]](https://rslab.ut.ac.ir/data) 
+    * Washington DC Mall [[Web]](https://rslab.ut.ac.ir/data)
+    * Cuprite [[Web]](http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes)
+ * MRI [[Web]](https://brainweb.bic.mni.mcgill.ca/brainweb/selection_normal.html)
 
 ## Commonly Used Image Quality Metrics
  * PSNR (Peak Signal-to-Noise Ratio) [[Wiki]](https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio) [[Matlab Code]](https://www.mathworks.com/help/images/ref/psnr.html) 
