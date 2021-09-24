@@ -57,7 +57,7 @@ Criteria: works must have codes available, and the reproducible results demonstr
    * Tensor Network Ranks, _arXiv 2019_, **Ke Ye et al.**
 * FCTN Decomposition [[Web]](https://yubangzheng.github.io/) [[Code]](https://yubangzheng.github.io/) [[PDF]](https://yubangzheng.github.io/papers/AAAI2021_FCTN_Decomposition_ybz.pdf)
    * Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion, _AAAI 2021_, **Yu-Bang Zheng et al.**
-* NL-FCTN Decomposition [[Web]](https://yubangzheng.github.io/) [[Code]] [[PDF]](https://yubangzheng.github.io/papers/NL-FCTN-wjz.pdf)
+* NL-FCTN Decomposition [[Web]](https://zhaoxile.github.io/) [[Code]] [[PDF]](https://yubangzheng.github.io/papers/NL-FCTN-wjz.pdf)
    * Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Remote Sensing Image Inpainting, _arXiv 2021_, **Wen-Jie Zheng et al.**
  
 
