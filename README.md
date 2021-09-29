@@ -22,16 +22,16 @@ Criteria: works must have codes available, and the reproducible results demonstr
    * Bayesian CP factorization of incomplete tensors with automatic rank determination, _IEEE Transactions on Pattern Analysis and Machine Intelligence 2015_, **Qibin Zhao et al.**
 
 
-## Tucker Decomposition
-* SNN [[Web]](https://www.cs.rochester.edu/u/jliu/publications.html) [[Code]](http://peterwonka.net/Publications/code/LRTC_Package_Ji.zip) [[PDF]](https://www.cs.rochester.edu/u/jliu/paper/Ji-ICCV09.pdf)
-   * Tensor Completion for Estimating Missing Values in Visual Data (PAMI 2012), Ji Liu et al.
-* TMac [[Web]](https://www.math.ucla.edu/~wotaoyin/papers/tmac_tensor_recovery.html) [[Code]](https://www.math.ucla.edu/~wotaoyin/papers/tmac_tensor_recovery.html) [[PDF]](https://www.math.ucla.edu/~wotaoyin/papers/tmac_tensor_recovery.html)
-  * Parallel matrix factorization for low-rank tensor completion (Inverse Problems and Imaging), Yangyang Xu et al.
+## Tucker Decomposition (Maintained by Hao Zhang)
+* SNN [[Web]](https://www.cs.rochester.edu/u/jliu/publications.html) [[Code]](http://peterwonka.net/Publications/code/LRTC_Package_Ji.zip) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6138863)
+   * Tensor Completion for Estimating Missing Values in Visual Data, _IEEE Transactions on Pattern Analysis and Machine Intelligence 2015_, **Ji Liu et al.**
+* TMac [[Web]](https://xu-yangyang.github.io/papers.html) [[Code]](https://xu-yangyang.github.io/codes/TMac.zip) [[PDF]](https://arxiv.org/pdf/1312.1254.pdf)
+  * Parallel matrix factorization for low-rank tensor completion, _Inverse Problems and Imaging 2015_, **Yangyang Xu et al.**
 * KBR [[Web]](http://gr.xjtu.edu.cn/web/dymeng/1;jsessionid=F03A6AE30867A1EE7DE9D577DD4E253D) [[Code]](https://github.com/XieQi2015/KBR-TC-and-RPCA) [[PDF]](https://ieeexplore.ieee.org/iel7/34/4359286/08000407.pdf)
-   * Kronecker-Basis-Representation Based Tensor Sparsity and Its Applications to Tensor Recovery (PAMI 2017), Qi Xie et al.
+   * Kronecker-Basis-Representation Based Tensor Sparsity and Its Applications to Tensor Recovery, _IEEE Transactions on Pattern Analysis and Machine Intelligence 2018_, **Qi Xie et al.**
 
   
-## Tensor Singular Value Decomposition
+## Tensor Singular Value Decomposition 
 * TRPCA [[Web]](https://canyilu.github.io/publications/) [[Code]](https://github.com/canyilu/Tensor-Robust-Principal-Component-Analysis-TRPCA) [[PDF]](https://arxiv.org/abs/1804.03728)
    * Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm (PAMI2018), Canyi Lu et al.
  * 3DTNN [[Web]](https://zhaoxile.github.io/) [[Code]](https://github.com/zhaoxile/Mixed-Noise-Removal-in-Hyperspectral-Image-via-Low-Fibered-Rank-Regularization) [[PDF]](https://zhaoxile.github.io/paper/2020/Mixed%20Noise%20Removal%20in%20Hyperspectral%20Image%20via%20Low-Fibered-Rank%20Regularization.pdf)
