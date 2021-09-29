@@ -18,8 +18,8 @@ Criteria: works must have codes available, and the reproducible results demonstr
 * Tensor Completion Algorithms in Big Data Analytics (TKDD 2019), Qingquan Song et al.
 
 ## CANDECOMP/PARAFAC Decomposition
- * BCPF [[Web]](https://qibinzhao.github.io/) [[Code]](https://github.com/qbzhao/BCPF) [[PDF]](https://arxiv.org/abs/1401.6497)
-   * Bayesian CP factorization of incomplete tensors with automatic rank determination (PAMI 2015), Qibin Zhao et al.
+ * BCPF [[Web]](https://qibinzhao.github.io/) [[Code]](https://github.com/qbzhao/BCPF) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7010937)
+   * Bayesian CP factorization of incomplete tensors with automatic rank determination, _IEEE Transactions on Pattern Analysis and Machine Intelligence 2015_, **Qibin Zhao et al.**
 
 
 ## Tucker Decomposition
