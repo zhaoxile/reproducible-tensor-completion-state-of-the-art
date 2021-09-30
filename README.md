@@ -6,7 +6,9 @@ Criteria: works must have codes available, and the reproducible results demonstr
 
 **This list is maintained by:**
 
-**[Xi-Le Zhao](https://zhaoxile.github.io/),  [Tai-Xiang Jiang](https://taixiangjiang.github.io/),  [Yu-Bang Zheng](https://yubangzheng.github.io/)** **[[Email]](https://zhaoxile.github.io/) (UESTC)**
+**[Xi-Le Zhao](https://zhaoxile.github.io/),  [Tai-Xiang Jiang](https://taixiangjiang.github.io/),  [Yu-Bang Zheng](https://yubangzheng.github.io/)** 
+
+**[[Email]](https://zhaoxile.github.io/) (UESTC)**
 
 
 ## Excellent Review
