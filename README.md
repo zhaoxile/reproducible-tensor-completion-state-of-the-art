@@ -93,6 +93,8 @@ Criteria: works must have codes available, and the reproducible results demonstr
     * Pavia Centre and University [[Web]](https://rslab.ut.ac.ir/data) 
     * Washington DC Mall [[Web]](https://rslab.ut.ac.ir/data)
     * Cuprite [[Web]](http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes)
+    * ICVL [[Web]](http://icvl.cs.bgu.ac.il/hyperspectral/)
+    * Harvard [[Web]](http://vision.seas.harvard.edu/hyperspec/d2x5g3/)
  * MRI [[Web]](https://brainweb.bic.mni.mcgill.ca/brainweb/selection_normal.html)
 
 ## Commonly Used Image Quality Metrics
