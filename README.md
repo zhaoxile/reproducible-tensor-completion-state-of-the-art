@@ -86,7 +86,6 @@ Criteria: works must have codes available, and the reproducible results demonstr
 
 
 ## Commonly Used  Dataset (Maintained by Jie Lin)
- * [Video](http://trace.eas.asu.edu/yuv/) 
  * Multi-Spectral Image (MSI)
     * [CAVE](http://www.cs.columbia.edu/CAVE/databases/multispectral/) 
  * Hyper-Spectral Image (HSI)
@@ -95,10 +94,12 @@ Criteria: works must have codes available, and the reproducible results demonstr
     * [Cuprite](http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes)
     * [ICVL](http://icvl.cs.bgu.ac.il/hyperspectral/)
     * [Harvard](http://vision.seas.harvard.edu/hyperspec/d2x5g3/)
+  * Magnetic Resonance Imaging (MRI) Volume
+    * [BrainWeb](https://brainweb.bic.mni.mcgill.ca/brainweb/selection_normal.html)
+ * [Video](http://trace.eas.asu.edu/yuv/) 
  * [Hyper-Spectral Video (HSV)](http://openremotesensing.net/kb/data/)
  * [Traffic data](http://gtl.inrialpes.fr/status)
- * Magnetic Resonance Imaging (MRI) Volume
-    * [BrainWeb](https://brainweb.bic.mni.mcgill.ca/brainweb/selection_normal.html)
+
 
 ## Commonly Used Image Quality Metrics
  * PSNR (Peak Signal-to-Noise Ratio) [[Wiki]](https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio) [[Matlab Code]](https://www.mathworks.com/help/images/ref/psnr.html) 
