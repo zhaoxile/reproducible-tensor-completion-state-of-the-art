@@ -86,16 +86,19 @@ Criteria: works must have codes available, and the reproducible results demonstr
 
 
 ## Commonly Used  Dataset (Maintained by Jie Lin)
- * Videos [[Web]](http://trace.eas.asu.edu/yuv/) 
- * Multi-spectral Images
-    * CAVE [[Web]](http://www.cs.columbia.edu/CAVE/databases/multispectral/) 
- * Hyper-spectral Images 
-    * Pavia Centre and University [[Web]](https://rslab.ut.ac.ir/data) 
-    * Washington DC Mall [[Web]](https://rslab.ut.ac.ir/data)
-    * Cuprite [[Web]](http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes)
-    * ICVL [[Web]](http://icvl.cs.bgu.ac.il/hyperspectral/)
-    * Harvard [[Web]](http://vision.seas.harvard.edu/hyperspec/d2x5g3/)
- * MRI [[Web]](https://brainweb.bic.mni.mcgill.ca/brainweb/selection_normal.html)
+ * [Video](http://trace.eas.asu.edu/yuv/) 
+ * Multi-Spectral Image (MSI)
+    * [CAVE](http://www.cs.columbia.edu/CAVE/databases/multispectral/) 
+ * Hyper-Spectral Image (HSI)
+    * [Pavia Centre and University](https://rslab.ut.ac.ir/data) 
+    * [Washington DC Mall](https://rslab.ut.ac.ir/data)
+    * [Cuprite](http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes)
+    * [ICVL](http://icvl.cs.bgu.ac.il/hyperspectral/)
+    * [Harvard](http://vision.seas.harvard.edu/hyperspec/d2x5g3/)
+ * [Hyper-Spectral Video (HSV)](http://openremotesensing.net/kb/data/)
+ * [Traffic data](http://gtl.inrialpes.fr/status)
+ * Magnetic Resonance Imaging (MRI) Volume
+    * [BrainWeb](https://brainweb.bic.mni.mcgill.ca/brainweb/selection_normal.html)
 
 ## Commonly Used Image Quality Metrics
  * PSNR (Peak Signal-to-Noise Ratio) [[Wiki]](https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio) [[Matlab Code]](https://www.mathworks.com/help/images/ref/psnr.html) 
