@@ -31,18 +31,40 @@ Criteria: works must have codes available, and the reproducible results demonstr
   * Parallel matrix factorization for low-rank tensor completion, _Inverse Problems and Imaging 2015_, **Yangyang Xu et al.**
 * KBR [[Web]](http://gr.xjtu.edu.cn/web/dymeng/1;jsessionid=F03A6AE30867A1EE7DE9D577DD4E253D) [[Code]](https://github.com/XieQi2015/KBR-TC-and-RPCA) [[PDF]](https://ieeexplore.ieee.org/iel7/34/4359286/08000407.pdf)
    * Kronecker-Basis-Representation Based Tensor Sparsity and Its Applications to Tensor Recovery, _IEEE Transactions on Pattern Analysis and Machine Intelligence 2018_, **Qi Xie et al.**
-
   
-## Tensor Singular Value Decomposition 
-* TRPCA [[Web]](https://canyilu.github.io/publications/) [[Code]](https://github.com/canyilu/Tensor-Robust-Principal-Component-Analysis-TRPCA) [[PDF]](https://arxiv.org/abs/1804.03728)
-   * Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm (PAMI2018), Canyi Lu et al.
- * 3DTNN [[Web]](https://zhaoxile.github.io/) [[Code]](https://github.com/zhaoxile/Mixed-Noise-Removal-in-Hyperspectral-Image-via-Low-Fibered-Rank-Regularization) [[PDF]](https://zhaoxile.github.io/paper/2020/Mixed%20Noise%20Removal%20in%20Hyperspectral%20Image%20via%20Low-Fibered-Rank%20Regularization.pdf)
-   * Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization (IEEE TGRS2020), Yu-Bang Zheng et al.
-* PSTNN [[Web]](https://sites.google.com/view/taixiangjiang/) [[Code]](https://github.com/zhaoxile/Multi-dimensional-imaging-data-recovery-via-minimizing-the-partial-sum-of-tubal-nuclear-norm) [[PDF]](https://zhaoxile.github.io/paper/2019/Multi-dimensional%20imaging%20data%20recovery%20via%20minimizing%20the%20partial%20sum%20of%20tubal%20nuclear%20norm.pdf)
-   * Multi-dimensional imaging data recovery via minimizing the partial sum of tubal nuclear norm
- (JCAM2020), Tai-Xiang Jiang et al. 
+## Tensor Singular Value Decomposition(Maintained by Ben-Zheng Li)
 * TNN [[Web]](http://www.ece.tufts.edu/~shuchin/) [[Code]](http://www.ece.tufts.edu/~shuchin/tensor_completion_and_rpca.zip) [[PDF]](https://www.zpascal.net/cvpr2014/Zhang_Novel_Methods_for_2014_CVPR_paper.pdf)
-   * Novel Methods for Multilinear Data Completion and De-noising Based on Tensor-SVD (CVPR2014), Zemin Zhang et al.
+   * Novel Methods for Multilinear Data Completion and De-noising Based on Tensor-SVD (IEEE Conference on Computer Vision and Pattern
+Recognition 2014), **Zemin Zhang et al.**
+* TRPCA [[Web]](https://canyilu.github.io/publications/) [[Code]](https://github.com/canyilu/Tensor-Robust-Principal-Component-Analysis-TRPCA) [[PDF]](https://arxiv.org/abs/1804.03728)
+   * Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm (IEEE Transactions on Pattern Analysis and Machine Intelligence 2018), **Canyi Lu et al.**
+* MTPCP [[Web]](http://math.swu.edu.cn/s/math/index2jiaoshoutea14sub1.html)[Code][[PDF]](https://ieeexplore.ieee.org/document/9064895?denied=)
+   * Low-Tubal-Rank Plus Sparse Tensor Recovery With Prior Subspace Information (IEEE Transactions on Pattern Analysis and Machine Intelligence 2021), **Jian-Jun Wang et al.**
+ * 3DTNN [[Web]](https://zhaoxile.github.io/) [[Code]](https://github.com/zhaoxile/Mixed-Noise-Removal-in-Hyperspectral-Image-via-Low-Fibered-Rank-Regularization) [[PDF]](https://zhaoxile.github.io/paper/2020/Mixed%20Noise%20Removal%20in%20Hyperspectral%20Image%20via%20Low-Fibered-Rank%20Regularization.pdf)
+   * Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization (IEEE Transactions on
+Geoscience and Remote Sensing 2020), **Yu-Bang Zheng et al.**
+* PSTNN [[Web]](https://sites.google.com/view/taixiangjiang/) [[Code]](https://github.com/zhaoxile/Multi-dimensional-imaging-data-recovery-via-minimizing-the-partial-sum-of-tubal-nuclear-norm) [[PDF]](https://zhaoxile.github.io/paper/2019/Multi-dimensional%20imaging%20data%20recovery%20via%20minimizing%20the%20partial%20sum%20of%20tubal%20nuclear%20norm.pdf)
+   * Multi-dimensional imaging data recovery via minimizing the partial sum of tubal nuclear norm (Journal of Computational and Applied Mathematics 2020), **Tai-Xiang Jiang et al.** 
+* TNN-DCT [[Web]](https://canyilu.github.io/publications/)[[Code]](https://github.com/canyilu/Tensor-robust-PCA-and-tensor-completion-under-linear-transform)[[PDF]](https://canyilu.github.io/publications/2019-CVPR-TNNtrans.pdf)
+   * Low-Rank Tensor Completion With a New Tensor Nuclear Norm Induced by Invertible Linear Transforms (IEEE Conference on Computer Vision and Pattern
+Recognition 2019), **Canyi Lu et al.**
+* TTNN [[Web]](https://dblp.org/pid/68/2077.html)[[Code]](https://github.com/xjzhang008/Transformed-Tensor-SVD)[[PDF]](https://onlinelibrary.wiley.com/doi/10.1002/nla.2299)
+   * Robust tensor completion using transformed tensor singular value decomposition (Numerical Linear Algebra with Applications 2020), **Guangjing Song et al.**
+* t-SVDM [[Web]](https://mkilme01.pages.tufts.edu/) [Code] [[PDF]](https://www.pnas.org/content/118/28/e2015851118?__cf_chl_jschl_tk__=pmd_q2NSds777roBnmlkyZ._oWUyt3inwbvjxppxHTIgiWk-1632368958-0-gqNtZGzNAeWjcnBszQk9)
+   * Tensor-tensor algebra for optimal representation and compression of multiway data (Proceedings of the National Academy of Sciences of the United States of America 2021), **Misha E. Kilmer et al.**
+* Framelet [[Web]](https://it.swufe.edu.cn/info/1106/6154.htm)[[Code]](https://github.com/TaiXiangJiang/Framelet-TNN)[[PDF]](https://ieeexplore.ieee.org/document/9115254)
+   * Framelet Representation of Tensor Nuclear Norm for Third-Order Tensor Completion (IEEE Transactions on Image Processing 2020), **Tai-Xiang Jiang et al.**
+* CT-LRTC [[Web]](https://zhaoxile.github.io/)[Code][[PDF]](https://ieeexplore.ieee.org/abstract/document/9372832)
+   * Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform (IEEE Transactions on Image Processing 2021), **Jian-Li Wang et al.**
+* TQN [[Web]](https://canyilu.github.io/publications/)[Code][[PDF]](https://link.springer.com/article/10.1007/s10994-021-05987-8)
+   * Tensor Q-rank: new data dependent definition of tensor rank (Machine Learning 2021), **Hao Kong et al.**
+* DTNN [[Web]](https://taixiangjiang.github.io/)[Code][[PDF]](https://taixiangjiang.github.io/paper/2021/TNNLS-Dictionary_Learning_With_Low-Rank_Coding_Coefficients_for_Tensor_Completion.pdf)
+   * Dictionary Learning With Low-Rank Coding Coefficients for Tensor Completion (IEEE Transactions on Neural Networks and Learning Systems 2021), **Tai-Xiang Jiang et al.**
+## Tensor Train Decomposition
+* TMac-TT [[Web]](https://sites.google.com/site/jbengua/home) [[Code]](https://sites.google.com/site/jbengua/home/projects/efficient-tensor-completion-for-color-image-and-video-recovery-low-rank-tensor-train/TMacTT_Images.zip?attredirects=0&d=1) [[PDF]](https://www.researchgate.net/publication/303821165_Efficient_Tensor_Completion_for_Color_Image_and_Video_Recovery_Low-Rank_Tensor_Train)
+   * Efficient Tensor Completion for Color Image and Video Recovery: Low-Rank Tensor Train (IEEE TIP2017), Johann A. Bengua et al.
+* MF-TTTV  [[Web]](https://zhaoxile.github.io/) [[Code]](https://github.com/zhaoxile) [[PDF]](https://zhaoxile.github.io/paper/2019/Low-Rank%20Tensor%20Completion%20Using%20Matrix%20Factorization%20Based%20on%20Tensor%20Train%20Rank%20and%20Total%20Variation.pdf)
+   * Low-Rank Tensor Completion Using Matrix Factorization Based on Tensor Train Rank and Total Variation (JSC2019), Meng Ding et al.
    
 ## Tensor Network Decomposition (Maintained by Wen-Jie Zheng and Yu-Bang Zheng)
 * TT Decomposition [[Web]](https://www.researchgate.net/profile/Ivan-Oseledets) [[Code]] [[PDF]](https://www.researchgate.net/publication/220412263_Tensor-Train_Decomposition)
