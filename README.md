@@ -34,6 +34,8 @@ Criteria: works must have codes available, and the reproducible results demonstr
 
   
 ## Tensor Singular Value Decomposition (Maintained by Ben-Zheng Li)
+* t-SVD[[Web]](https://mkilme01.pages.tufts.edu/)[Code] [[PDF]](https://www.sciencedirect.com/science/article/pii/S0024379510004830)
+   * Factorization Strategies for Third-order Tensors, _Linear Algebra and its Applications 2011_, **M. E. Kilmer et al.**
 * TNN [[Web]](http://www.ece.tufts.edu/~shuchin/) [[Code]](http://www.ece.tufts.edu/~shuchin/tensor_completion_and_rpca.zip) [[PDF]](https://www.zpascal.net/cvpr2014/Zhang_Novel_Methods_for_2014_CVPR_paper.pdf)
    * Novel Methods for Multilinear Data Completion and De-noising Based on Tensor-SVD _IEEE Conference on Computer Vision and Pattern
 Recognition 2014_, **Zemin Zhang et al.**
