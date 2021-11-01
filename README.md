@@ -80,7 +80,7 @@ Recognition 2019_, **Canyi Lu et al.**
 * FCTN Decomposition [[Web]](https://yubangzheng.github.io/) [[Code]](https://yubangzheng.github.io/) [[PDF]](https://yubangzheng.github.io/papers/AAAI2021_FCTN_Decomposition_ybz.pdf)
    * Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion, _AAAI 2021_, **Yu-Bang Zheng et al.**
 * NL-FCTN Decomposition [[Web]](https://zhaoxile.github.io/) [[Code]] [[PDF]](https://yubangzheng.github.io/papers/NL-FCTN-wjz.pdf)
-   * Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Remote Sensing Image Inpainting, _IEEE Geoscience and Remote Sensing Letters 2021_, **Wen-Jie Zheng et al.**
+   * Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting, _IEEE Geoscience and Remote Sensing Letters 2021_, **Wen-Jie Zheng et al.**
  
 
 
